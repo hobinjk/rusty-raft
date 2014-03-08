@@ -1,0 +1,3 @@
+[submodule "rust-osc"]
+	path = rust-osc
+	url = https://github.com/hobinjk/rust-osc
